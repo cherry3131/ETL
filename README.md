@@ -15,6 +15,7 @@ Packages: Selenium、Pandas
 
 4. The results will output to csv file
    
-![image](https://github.com/cherry3131/web_crawler/assets/140130666/a339bebe-0544-495d-8851-6fc69debef20)
+![image](https://github.com/cherry3131/Work-ETL-Job_Bank/assets/140130666/62ed16f4-b316-44ca-ab01-9c0d23a7094e)
+
 
    
