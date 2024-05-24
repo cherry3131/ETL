@@ -3,7 +3,8 @@ Packages: Selenium、Pandas
 
 1. Please install the requirements
 
-2.Login your account (Up to you!)
+2.Login your account (Up to you!)  
+
 3. Enter Keywords
 
 ![image](https://github.com/cherry3131/web_crawler/assets/140130666/2b26bbf0-6373-471d-9c80-20ea0bb737c1)
